@@ -1,4 +1,5 @@
-﻿#include <iostream>
+//Barış Çetin 20161701047
+#include <iostream>
 #include <random>
 #include <vector>
 #include <algorithm> 
